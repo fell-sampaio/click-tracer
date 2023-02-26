@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/static/v1?label=REACT&color=blue&style=plastic&message=3"/>
+<img src="https://img.shields.io/static/v1?label=REACT&color=blue&style=plastic&message=18.2.0"/>
 
 <h1 align="center">:large_blue_circle: Click Tracer</h1>
 
